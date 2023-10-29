@@ -1,5 +1,4 @@
 ![AlinesDevelopment](https://cdn.discordapp.com/attachments/1152669977065836675/1153032102271516733/Picsart_23-09-17_21-11-09-846.png)
-<p align="center-left"> <img src="https://komarev.com/ghpvc/?username=AlinesDevelopment&label=Görüntülenme&color=7d69ff&style=flat alt="AlinesDevelopment" /> </p>
 
 # Merhaba 👋 Alines™ Development
 Güncel olarak aşağıda bulunan **[📚 Modül](https://github.com/AlinesDevelopment#-mod%C3%BCl)** kısmındaki bulunan kütüphaneler hakkında kullanıcılara bilgi veren, yardım eden bir ekiptir. İlerde daha fazla discord kütüphaneleriyle alakalı bilgi verecek. Bu ekibe öneri yapmak vb. amacıyla iletişim kurmak için **[📞 İletişim](https://github.com/AlinesDevelopment#-i%CC%87leti%C5%9Fim)** kısmında iletişim kurabilirsin. Ayrıca sen de mi bu ekibin bir parçası olmak istiyorsun? **[📝 Başvuru](https://docs.google.com/forms/d/e/1FAIpQLSdjoZ9WZ1r0IAxpSAMSg2GdomEmA65qdwXRUzMTJPyKc465lA/viewform?usp=send_form)** yaparak şansını deneyebilirsin!
