@@ -1,7 +1,7 @@
 ![MazeDevelopment](https://cdn.discordapp.com/attachments/1081943858230853632/1174348246458585098/20231115_170028.png?ex=65674408&is=6554cf08&hm=275cafb69bbd3d21b4ee0820d8b44721b191836685065636a8939553972d7eb3&)
 
 # Merhaba 👋 Maze Development
-Güncel olarak aşağıda bulunan **[📚 Modül](https://github.com/MazeDevelopment#-mod%C3%BCl)** kısmındaki bulunan kütüphaneler hakkında kullanıcılara bilgi veren, yardım eden bir ekiptir. İlerde daha fazla discord kütüphaneleriyle alakalı bilgi verecek. Bu ekibe öneri yapmak vb. amacıyla iletişim kurmak için **[📞 İletişim](https://github.com/MazeDevelopment#-i%CC%87leti%C5%9Fim)** kısmında iletişim kurabilirsin.
+Güncel olarak aşağıda bulunan **[📚 Modül](https://github.com/MazeDevelopment#-mod%C3%BCl)** kısmındaki bulunan kütüphaneler hakkında kullanıcılara bilgi veren, yardım eden bir ekiptir. İlerde daha fazla discord kütüphaneleriyle alakalı bilgi verecek. Bu ekibe öneri yapmak vb. amacıyla iletişim kurmak için **[📞 İletişim](https://github.com/MazeDevelopment#-i%CC%87leti%C5%9Fim)** kısmında iletişim kurabilirsin. Ayrıca bir siteye sahibiz. Siteye ulaşmak için **[🌎 Site](https://mazedev.vercel.app/)** tıkla!
 
 **Kurucu @** **[Walores](https://github.com/walores)** (Sunucu Sorumlusu)
 
