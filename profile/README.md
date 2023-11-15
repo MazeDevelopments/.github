@@ -15,5 +15,5 @@ Güncel olarak aşağıda bulunan **[📚 Modül](https://github.com/MazeDevelop
 # 📞 İletişim
 <p align="left">
 <a href="https://discord.gg/codeshare" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="WNCArT5gk2" height="40" width="40" /></a>
-  <a href="https://www.youtube.com/c/MazeDevelopment_" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="MazeDevelopment_" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/MazeDevelopment_" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="MazeDevelopment_" height="40" width="40" /></a>
 </p>
