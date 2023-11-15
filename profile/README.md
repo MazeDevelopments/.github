@@ -4,7 +4,9 @@
 Güncel olarak aşağıda bulunan **[📚 Modül](https://github.com/MazeDevelopment#-mod%C3%BCl)** kısmındaki bulunan kütüphaneler hakkında kullanıcılara bilgi veren, yardım eden bir ekiptir. İlerde daha fazla discord kütüphaneleriyle alakalı bilgi verecek. Bu ekibe öneri yapmak vb. amacıyla iletişim kurmak için **[📞 İletişim](https://github.com/MazeDevelopment#-i%CC%87leti%C5%9Fim)** kısmında iletişim kurabilirsin.
 
 **Kurucu @** **[Walores](https://github.com/walores)** (Sunucu Sorumlusu)
+
 **Kurucu @** **[Garmadon](https://github.com/garmadondevs)** (Sunucu Sorumlusu)
+
 **Admin @** **[Ardawn](https://github.com/ardawn9)** (Sunucu & Site Sorumlusu)
 
 # 📚 Modül
