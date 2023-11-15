@@ -7,6 +7,8 @@ Güncel olarak aşağıda bulunan **[📚 Modül](https://github.com/MazeDevelop
 
 **Kurucu @** **[Garmadon](https://github.com/garmadondevs)** (Sunucu Sorumlusu)
 
+**Kurucu @** **[Yitener](https://github.com/Yitener)** (Sunucu Sorumlusu)
+
 **Admin @** **[Ardawn](https://github.com/ardawn9)** (Sunucu & Site Sorumlusu)
 
 # 📚 Modül
