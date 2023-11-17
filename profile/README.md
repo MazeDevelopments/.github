@@ -11,7 +11,7 @@ Güncel olarak aşağıda bulunan **[📚 Modül](https://github.com/MazeDevelop
 **Admin @** **[Ardawn](https://github.com/ardawn9)** (Sunucu & Site Sorumlusu)
 
 # 📚 Modül
-<p align="left"> <a href="https://aoi.js.org/" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/1058843428831629443/1063149432255811685/6C179234-C7D8-4CAB-9BED-57F8EDE46731.png?width=553&height=553" alt="aoi.js" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aoi.js.org/" target="_blank" rel="noreferrer"> <img src="https://media.discordapp.net/attachments/1058843428831629443/1063149432255811685/6C179234-C7D8-4CAB-9BED-57F8EDE46731.png?width=553&height=553" alt="aoi.js" width="40" height="40"/> </a> <a href="https://botdesignerdiscord.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/emojis/766607515445231637.png?size=96&quality=lossless" alt="bdfd" width="40" height="40"/> </a> </p>
 
 # 📞 İletişim
 <p align="left">
