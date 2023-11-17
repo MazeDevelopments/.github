@@ -3,7 +3,7 @@
 # Merhaba 👋 Maze Development
 Sizlere **aoi.js v6.5.6** ile geliştirilen **Canlı Destek** altyapısı paylaştık. Kullanımı oldukça basit, sadedir. Kendinize göre komutların içine girip mesajları düzenleyebilirsiniz. Bu altyapı farklı sunuculardayken bile yetkililerden destek almayı amaçlar. Herhangi bir hatada veya bir öneride bizle iletişime geçebilirsiniz. Altyapı tamamiyle bize aittir, başka yerlede paylaşılması ve yayılması yasaktır.
 
-## Özel Teşekkürler
+**🎉 Özel Teşekkürler**
 
 **[Ardawn](https://github.com/ardawn9)**
 
